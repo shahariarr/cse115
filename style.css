@@ -1,0 +1,145 @@
+body
+{
+background-color:rgb(230, 223, 212) ;
+background-image: url(05.jpg);
+}
+a{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 700;
+    color: rgb(252, 246, 247); 
+}
+a:hover{
+    color: rgb(255, 0, 170);
+}
+h1{
+
+    color: rgb(22, 57, 172);
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#p1{
+    color: rgb(12, 12, 11);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+#it {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    
+}
+#shifat{
+     width: 1150px;
+     height: 400px ;
+     background-color:turquoise;
+     margin: auto;
+     padding-left:50px ;
+}
+#p2{
+    
+    color: rgb(10, 10, 10); 
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#shifat2{
+    width: 1150px;
+    height: 1150px;
+    background-color: turquoise;
+    margin:auto ;
+    padding-left:50px ;
+    padding-top: 10PX;
+}
+#shifat3{
+    width: 1150px;
+    height: 280px;
+    background-color: turquoise;
+    margin:auto ;
+    padding-left:50px ;
+    padding-top: 5px;
+}
+#shifat4{
+    width: 1150px;
+    height: 230px;
+    background-color: turquoise;
+    margin:auto ;
+    padding: 20px ;
+}
+#shifat5{
+    width: 1300px;
+    height: 200px;
+    background-color: darkturquoise;
+    margin: auto;
+
+}
+#h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    
+}
+#it2{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+#it3{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+#h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+#h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+#it4{
+    font-family:'Courier New', Courier, monospace ;
+    font-size: 15px;
+}
+#h5{
+    font-family:'Courier New', Courier, monospace ;
+    font-size: 15px;
+}
+#h6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+#it5{
+    font-family:'Courier New', Courier, monospace ;
+    font-size: 15px;
+}
+#shifat5{
+  display: flex;
+
+}
+#shifat5 div {
+width: 30%;
+padding-left: 80px;
+}
+#it6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+table,th,td{
+border: black 2px solid;
+width: 800PX;
+font-family:'Courier New', Courier, monospace;
+border-collapse: collapse;
+}
+
+#shifat6{
+    width: 1100px;
+    height: 50px;
+    background-color:turquoise;
+    margin: auto;
+    padding: 50px;overflow: auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    border: 5px black solid;
+}
+#box{
+    
+}
